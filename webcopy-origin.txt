@@ -1,0 +1,140 @@
+Uri: https://cdn-reach.hostinger.com/js/embed.js
+File Name: C:\Downloaded Web Sites\connectforinternet.com\js\embed.js
+Content Type: application/javascript
+
+Uri: https://connectforinternet.com/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/about-us/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/comments/feed/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://connectforinternet.com/contact-us/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/customer-service/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\customer-service\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/feed/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://connectforinternet.com/internet-package/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\internet-package\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/tv-packages/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\tv-packages\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/t_n_c/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\t_n_c\index.htm
+Content Type: text/html
+
+Uri: https://connectforinternet.com/wp-content/litespeed/css/c686563dd07358565bb32f9fab2573e7.css?ver=8a31d
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\litespeed\css\c686563dd07358565bb32f9fab2573e7.css
+Content Type: text/css
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/flaticon.eot
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/flaticon.eot?
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/flaticon.svg
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/flaticon.ttf
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/flaticon.woff
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/images/cross-out.png
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\images\cross-out.png
+Content Type: image/png
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/images/icons/icon-4.png
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\images\icons\icon-4.png
+Content Type: image/png
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/images/icons/preloader.svg
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\images\icons\preloader.svg
+Content Type: image/svg+xml
+
+Uri: https://connectforinternet.com/wp-content/themes/nextbit/assets/images/icons/waves-shape.png
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\themes\nextbit\assets\images\icons\waves-shape.png
+Content Type: image/png
+
+Uri: https://connectforinternet.com/wp-content/uploads/2022/12/pattern-57.png
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\uploads\2022\12\pattern-57.png
+Content Type: image/png
+
+Uri: https://connectforinternet.com/wp-content/uploads/2026/05/logo-fav-150x150.png
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\uploads\2026\05\logo-fav-150x150.png
+Content Type: image/png
+
+Uri: https://connectforinternet.com/wp-content/uploads/2026/05/logo-fav-300x300.png
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-content\uploads\2026\05\logo-fav-300x300.png
+Content Type: image/png
+
+Uri: https://connectforinternet.com/wp-json/
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://connectforinternet.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fconnectforinternet.com%2F
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://connectforinternet.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fconnectforinternet.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://connectforinternet.com/wp-json/wp/v2/pages/872
+File Name: C:\Downloaded Web Sites\connectforinternet.com\wp-json\wp\v2\pages\872
+Content Type: application/json
+
+Uri: https://connectforinternet.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\connectforinternet.com\xmlrpc.php
+Content Type: text/xml
+
