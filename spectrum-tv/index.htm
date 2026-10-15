@@ -137,6 +137,83 @@
                 transform: rotate(0);
             }
         }
+        .floating-call-button {
+            position: fixed;
+            right: 20px;
+            bottom: max(20px, env(safe-area-inset-bottom));
+            z-index: 1000;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 14px 20px;
+            border: 0;
+            border-radius: 4px;
+            background: #f66200;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, .25);
+            color: #fff;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 1.2;
+            text-decoration: none;
+        }
+        .floating-call-mark {
+            display: block;
+            width: 24px;
+            height: 24px;
+            animation: callButtonShake 2.4s ease-in-out infinite;
+            transform-origin: center;
+        }
+        .floating-call-icon {
+            display: inline-grid;
+            width: 44px;
+            height: 44px;
+            flex: 0 0 44px;
+            place-items: center;
+            border-radius: 50%;
+            background: #fff;
+            color: #f66200;
+        }
+        .floating-call-button:hover,
+        .floating-call-button:focus-visible {
+            background: #d95300;
+            color: #fff;
+        }
+        .floating-call-button:focus-visible .floating-call-mark {
+            animation-play-state: paused;
+        }
+        .floating-call-button:focus-visible {
+            outline: 3px solid #111;
+            outline-offset: 3px;
+        }
+        @keyframes callButtonShake {
+            0%, 82%, 100% { transform: translateX(0) rotate(0); }
+            84% { transform: translateX(-2px) rotate(-2deg); }
+            87% { transform: translateX(2px) rotate(2deg); }
+            90% { transform: translateX(-2px) rotate(-2deg); }
+            93% { transform: translateX(2px) rotate(2deg); }
+            96% { transform: translateX(0) rotate(0); }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            .floating-call-mark { animation: none; }
+        }
+        @media (max-width: 480px) {
+            .floating-call-button {
+                right: 12px;
+                bottom: max(12px, env(safe-area-inset-bottom));
+                gap: 8px;
+                padding: 12px 14px;
+                font-size: 14px;
+            }
+            .floating-call-icon {
+                width: 40px;
+                height: 40px;
+                flex-basis: 40px;
+            }
+            .floating-call-mark {
+                width: 22px;
+                height: 22px;
+            }
+        }
     </style>
     <style id="core-block-supports-inline-css">
         .wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}
@@ -813,6 +890,11 @@ Plus Mobile lines and a TV plan</p>
             </div>
         </div>
     </div>
+    <a class="floating-call-button" href="tel:+14694219207" aria-label="Call Spectrum at 469-421-9207">
+        <span class="floating-call-icon" aria-hidden="true"><svg class="floating-call-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.79 19.79 0 0 1 2.12 4.2 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.12.96.36 1.9.7 2.8a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.84.58 2.8.7a2 2 0 0 1 1.73 2.03z"/></svg></span>
+        <span>Call Now</span>
+        <span>+1 (469) 421-9207</span>
+    </a>
 </body>
 
 <script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'p3plzcpnl507330'},{'dcenter':'p3'},{'cp_id':'11006285'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='../signals/js/clients/scc-c2/scc-c2.min.js'></script></html>
